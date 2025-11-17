@@ -27,4 +27,4 @@ The source code is licensed under Mozilla Public License 2.0.
 
 Genshin Impact content and materials are a copyright of miHoYo Co., Ltd. No copyright infringement intended.
 
-Credit: [FrenzyYum] https://github.com/FrenzyYum
+Credit: [FrenzyYum](https://github.com/FrenzyYum) for repo
